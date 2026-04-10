@@ -1,7 +1,7 @@
 import calculator
 
 def main():
-    print("--- Welcome to the Buggy Calculator ---")
+    print("--- Welcome to the Working Calculator ---")
     
     while True:
         print("\nChoose an operation:")
