@@ -10,3 +10,7 @@ Someone wrote this code in a hurry and it's full of bugs. Can you find them all?
 - One function is missing an import!
 - Subtraction is adding for some reason...
 - There's a typo in the main menu!
+
+### Tips and Tricks
+- `git branch <name of branch> makes a new branch`
+- `git checkout <name of branch>` makes you switch branches
