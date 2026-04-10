@@ -1,5 +1,5 @@
 import calculator
-
+#All bugs should be fixed
 def main():
     print("--- Welcome to the Working Calculator ---")
     
