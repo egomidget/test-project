@@ -1,5 +1,7 @@
 import calculator
+import tests as t
 #All bugs should be fixed
+t.tests()
 def main():
     print("--- Welcome to the Working Calculator ---")
     
